@@ -1,4 +1,5 @@
 import Testing
+@testable import SecretAgent
 
 struct SecretAgentTests {
     let protected = protectSecret(
